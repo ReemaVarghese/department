@@ -8,33 +8,33 @@
     <title>Computer science</title>
 </head>
 <body>
-    <div class="collapse" id="navbarToggleExternalContent">
-        <div class="bg-dark p-4">
-          <h5 class="text-white h4">Computer Science</h5>
-          <span class="text-muted"><nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-            <div class="container-fluid">
-              
-              
-              <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-                <div class="navbar-nav">
-                  <a class="nav-link" href="index.html">Home</a>
-                  <a class="nav-link" aria-current="page" href="contact.html">Contact</a>
-                  <a class="nav-link active" href="gallery.html">Gallery</a>
-                  <a class="nav-link" href="dept.html">Department</a>
-                  <a class="nav-link " href="about.html">About us</a>
-                </div>
-              </div>
-            </div>
-          </nav></span>
-        </div>
-      </div>
-      <nav class="navbar navbar-dark bg-dark">
+  <div class="collapse" id="navbarToggleExternalContent">
+    <div class="bg-dark p-4">
+      <h5 class="text-white h4">Computer Science</h5>
+      <span class="text-muted"><nav class="navbar  navbar-expand navbar-dark bg-dark">
         <div class="container-fluid">
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
+          
+          
+          <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+            <div class="navbar-nav">
+              <a class="nav-link" href="index.php">Home</a>
+              <a class="nav-link" aria-current="page" href="contact.php">Contact</a>
+              <a class="nav-link active" href="gallery.php">Gallery</a>
+              <a class="nav-link" href="dept.php">Department</a>
+              <a class="nav-link " href="about.php">About us</a>
+            </div>
+          </div>
         </div>
-      </nav>
+      </nav></span>
+    </div>
+  </div>
+  <nav class="navbar navbar-dark bg-dark">
+    <div class="container-fluid">
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    </div>
+  </nav>
 
       <div class="container">
           <div class="row">
